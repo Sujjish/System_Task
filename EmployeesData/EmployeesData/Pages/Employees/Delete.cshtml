@@ -1,0 +1,36 @@
+﻿@page
+@using Microsoft.Data.SqlClient;
+@using System;
+@{
+    try
+    {
+        string EmployeeId = Request.Query["EmployeeId"];
+        string connectionString = "Data Source=.\\sqlexpress;Initial Catalog=EmployeeDb;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+
+            // Delete related record(s) from SalaryInformation first
+            string sqlSalary = "DELETE FROM SalaryInformation WHERE EmployeeId = @EmployeeId";
+            using (SqlCommand cmdSalary = new SqlCommand(sqlSalary, connection))
+            {
+                cmdSalary.Parameters.AddWithValue("@EmployeeId", Convert.ToInt32(EmployeeId));
+                cmdSalary.ExecuteNonQuery();
+            }
+
+            // Then delete the employee record
+            string sqlEmployee = "DELETE FROM Employees WHERE EmployeeId = @EmployeeId";
+            using (SqlCommand cmdEmployee = new SqlCommand(sqlEmployee, connection))
+            {
+                cmdEmployee.Parameters.AddWithValue("@EmployeeId", Convert.ToInt32(EmployeeId));
+                cmdEmployee.ExecuteNonQuery();
+            }
+        }
+    }
+    catch (Exception ex)
+    {
+        
+    }
+    Response.Redirect("/Employees/Index");
+}
+

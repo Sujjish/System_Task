@@ -1,0 +1,103 @@
+﻿@page
+@model EmployeesData.Pages.Employees.CreateModel
+<br>
+<h2>New Employee</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+		<div class='alert alert-warning alert-dismissible fade show' role='alert'>
+			<strong>@Model.errorMessage</strong>
+			<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+		</div>
+}
+
+<form method="POST">
+	<div class="row mb-3">
+		<label class= "col-sm-3 col-form-label">Employee Name</label>
+		<div class="col-sm-6">
+			<input type = "text" class ="form-control" name="EmployeeName" value="@Model.employeesInfo.EmployeeName" >
+		</div>
+	</div>
+	<div class="row mb-3">
+		<label class="col-sm-3 col-form-label">Department</label>
+		<div class="col-sm-6">
+			<select class="form-select" name="Department">
+				<option value="">Select Department</option>
+				<option value="IT" selected="@(Model.employeesInfo.Department == "IT" ? "selected" : null)">IT</option>
+				<option value="Finance" selected="@(Model.employeesInfo.Department == "Finance" ? "selected" : null)">Finance</option>
+				<option value="HR" selected="@(Model.employeesInfo.Department == "HR" ? "selected" : null)">HR</option>
+				<option value="Marketing" selected="@(Model.employeesInfo.Department == "Marketing" ? "selected" : null)">Marketing</option>
+				<option value="Sales" selected="@(Model.employeesInfo.Department == "Sales" ? "selected" : null)">Sales</option>
+				<option value="Operations" selected="@(Model.employeesInfo.Department == "Operations" ? "selected" : null)">Operations</option>
+				<option value="Customer Service" selected="@(Model.employeesInfo.Department == "Customer Service" ? "selected" : null)">Customer Service</option>
+				<option value="Research" selected="@(Model.employeesInfo.Department == "Research" ? "selected" : null)">Research</option>
+			</select>
+		</div>
+	</div>
+
+
+	<div class="row mb-3">
+		<label class="col-sm-3 col-form-label">Sex</label>
+		<div class="col-sm-6">
+			<div class="form-check form-check-inline">
+				<input class="form-check-input" type="radio" name="Sex" id="male" value="Male" @(Model.employeesInfo.Sex == "Male" ? "checked" : "")>
+				<label class="form-check-label" for="male">Male</label>
+			</div>
+			<div class="form-check form-check-inline">
+				<input class="form-check-input" type="radio" name="Sex" id="female" value="Female" @(Model.employeesInfo.Sex == "Female" ? "checked" : "")>
+				<label class="form-check-label" for="female">Female</label>
+			</div>
+			<div class="form-check form-check-inline">
+				<input class="form-check-input" type="radio" name="Sex" id="other" value="Other" @(Model.employeesInfo.Sex == "Other" ? "checked" : "")>
+				<label class="form-check-label" for="other">Other</label>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="row mb-3">
+		<label class="col-sm-3 col-form-label">Marital Status</label>
+		<div class="col-sm-6">
+			<select class="form-select" name="MaritalStatus">
+				<option value="">Select Marital Status</option>
+				<option value="Single" selected="@(Model.employeesInfo.MaritalStatus == "Single" ? "selected" : null)">Single</option>
+				<option value="Married" selected="@(Model.employeesInfo.MaritalStatus == "Married" ? "selected" : null)">Married</option>
+			</select>
+		</div>
+	</div>
+
+
+	<div class="row mb-3">
+		<label class= "col-sm-3 col-form-label">Salary</label>
+		<div class="col-sm-6">
+			<input type = "text" class ="form-control" name="Salary" value="@Model.employeesInfo.Salary" >
+		</div>
+	</div>
+	<div class="row mb-3">
+		<label class= "col-sm-3 col-form-label">Address</label>
+		<div class="col-sm-6">
+			<input type = "text" class ="form-control" name="Address" value="@Model.employeesInfo.Address" >
+		</div>
+	</div>
+
+	@if (Model.SuccessMessage.Length > 0)
+	{
+			<div class='alert alert-warning alert-dismissible fade show' role='alert'>
+				<strong>@Model.SuccessMessage</strong>
+				<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+			</div>
+	}
+
+	<div class="row mb-3">
+		<div class="offset-sm-3 col-sm-3 d-grid">
+			<button type="submit" class="btn btn-primary">Submit</button>
+		</div>
+		<div class="col-sm-3 d-grid">
+			<button type="submit" name="action" value="View" class="btn btn-secondary">View</button>
+		</div>
+		<div class="col-sm-3 d-grid">
+			<button type="reset" class="btn btn-outline-primary">Cancel</button>
+		</div> 
+	</div>
+</form>
+
