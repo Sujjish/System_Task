@@ -24,7 +24,7 @@ namespace EmployeesData.Pages.Employees
 
             try
             {
-                // Get connection string from appsettings.json
+                
                 string connectionString = _configuration.GetConnectionString("EmployeeDbConnection");
 
                 using (SqlConnection connection = new SqlConnection(connectionString))
@@ -43,8 +43,6 @@ namespace EmployeesData.Pages.Employees
                                 employeesInfo.Department = reader.GetString(2);
                                 employeesInfo.Sex = reader.GetString(3);
                                 employeesInfo.MaritalStatus = reader.GetString(4);
-                                //employeesInfo.Salary = reader.GetDecimal(5).ToString();
-                                //employeesInfo.Salary = reader.GetString(5);
                                 employeesInfo.Address = reader.GetString(5);
                                 employeesInfo.Salary = reader.GetString(6);
                             }

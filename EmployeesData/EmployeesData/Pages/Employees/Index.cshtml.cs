@@ -41,7 +41,7 @@ namespace EmployeesData.Pages.Employees
                                 info.Sex = reader.GetString(3);
                                 info.MaritalStatus = reader.GetString(4);
                                 info.Address = reader.GetString(5);
-                                //info.Salary = reader.IsDBNull(6) ? "0.00" : reader.GetDecimal(6).ToString("F2");
+                                
                                 info.Salary = reader.GetString(6);
                                 listEmployees.Add(info);
                             }

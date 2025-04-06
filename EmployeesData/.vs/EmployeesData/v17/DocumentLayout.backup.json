@@ -3,29 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._sqlexpress/EmployeeDb/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -34,12 +11,32 @@
       "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|solutionrelative:employeesdata\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66C8C644-F0FC-448C-B2A8-A15E17352485}|EmployeesData\\EmployeesData.csproj|c:\\users\\sujjish\\source\\repos\\employeesdata\\employeesdata\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -57,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Employees\\Index.cshtml",
               "ToolTip": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Index.cshtml",
               "RelativeToolTip": "EmployeesData\\Pages\\Employees\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-05T13:51:35.241Z",
               "IsPinned": true,
@@ -75,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Employees\\Create.cshtml",
               "ToolTip": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Create.cshtml",
               "RelativeToolTip": "EmployeesData\\Pages\\Employees\\Create.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-05T15:48:12.436Z",
               "IsPinned": true,
@@ -89,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Employees\\Edit.cshtml.cs",
               "ToolTip": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Edit.cshtml.cs",
               "RelativeToolTip": "EmployeesData\\Pages\\Employees\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAABAQTZed0IwwBoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T20:58:51.302Z",
               "IsPinned": true,
@@ -103,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Index.cshtml",
               "RelativeToolTip": "EmployeesData\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAQNSHeFQ8kwA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-06T09:18:18.431Z",
               "IsPinned": true,
@@ -118,61 +115,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "dbo.Employees [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/._sqlexpress/EmployeeDb/True/SqlTable/dbo.Employees.sql",
-              "ToolTip": "dbo.Employees [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-06T15:39:18.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Employees\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Index.cshtml.cs",
               "RelativeToolTip": "EmployeesData\\Pages\\Employees\\Index.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIAwwB0AAABWAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAD4vysAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T13:52:17.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Delete.cshtml",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Employees\\Delete.cshtml",
               "ToolTip": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Delete.cshtml",
               "RelativeToolTip": "EmployeesData\\Pages\\Employees\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-06T07:55:13.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Employees\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Create.cshtml.cs",
               "RelativeToolTip": "EmployeesData\\Pages\\Employees\\Create.cshtml.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAkwFAAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T15:57:30.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "EmployeesData\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-06T09:18:03.71Z",
               "EditorCaption": ""
@@ -187,12 +174,11 @@
               "RelativeToolTip": "EmployeesData\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T09:18:12.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T09:18:12.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Error.cshtml",
@@ -200,12 +186,11 @@
               "RelativeToolTip": "EmployeesData\\Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T09:18:15.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T09:18:15.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\sujjish\\source\\repos\\EmployeesData\\EmployeesData\\Pages\\Employees\\Edit.cshtml",
               "RelativeDocumentMoniker": "EmployeesData\\Pages\\Employees\\Edit.cshtml",
@@ -213,8 +198,7 @@
               "RelativeToolTip": "EmployeesData\\Pages\\Employees\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T20:50:28.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T20:50:28.173Z"
             }
           ]
         }

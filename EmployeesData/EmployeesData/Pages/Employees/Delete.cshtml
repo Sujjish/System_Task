@@ -10,7 +10,7 @@
         {
             connection.Open();
 
-            // Delete related record(s) from SalaryInformation first
+            
             string sqlSalary = "DELETE FROM SalaryInformation WHERE EmployeeId = @EmployeeId";
             using (SqlCommand cmdSalary = new SqlCommand(sqlSalary, connection))
             {
@@ -18,7 +18,7 @@
                 cmdSalary.ExecuteNonQuery();
             }
 
-            // Then delete the employee record
+            
             string sqlEmployee = "DELETE FROM Employees WHERE EmployeeId = @EmployeeId";
             using (SqlCommand cmdEmployee = new SqlCommand(sqlEmployee, connection))
             {

@@ -13,13 +13,13 @@
 
 <form method="POST">
 	<div class="row mb-3">
-		<label class= "col-sm-3 col-form-label">Employee Name</label>
+		<label class= "col-sm-3 col-form-label">Employee Name*</label>
 		<div class="col-sm-6">
 			<input type = "text" class ="form-control" name="EmployeeName" value="@Model.employeesInfo.EmployeeName" >
 		</div>
 	</div>
 	<div class="row mb-3">
-		<label class="col-sm-3 col-form-label">Department</label>
+		<label class="col-sm-3 col-form-label">Department*</label>
 		<div class="col-sm-6">
 			<select class="form-select" name="Department">
 				<option value="">Select Department</option>
@@ -37,7 +37,7 @@
 
 
 	<div class="row mb-3">
-		<label class="col-sm-3 col-form-label">Sex</label>
+		<label class="col-sm-3 col-form-label">Sex*</label>
 		<div class="col-sm-6">
 			<div class="form-check form-check-inline">
 				<input class="form-check-input" type="radio" name="Sex" id="male" value="Male" @(Model.employeesInfo.Sex == "Male" ? "checked" : "")>
@@ -56,7 +56,7 @@
 
 
 	<div class="row mb-3">
-		<label class="col-sm-3 col-form-label">Marital Status</label>
+		<label class="col-sm-3 col-form-label">Marital Status*</label>
 		<div class="col-sm-6">
 			<select class="form-select" name="MaritalStatus">
 				<option value="">Select Marital Status</option>
@@ -68,13 +68,13 @@
 
 
 	<div class="row mb-3">
-		<label class= "col-sm-3 col-form-label">Salary</label>
+		<label class= "col-sm-3 col-form-label">Salary*</label>
 		<div class="col-sm-6">
 			<input type = "text" class ="form-control" name="Salary" value="@Model.employeesInfo.Salary" >
 		</div>
 	</div>
 	<div class="row mb-3">
-		<label class= "col-sm-3 col-form-label">Address</label>
+		<label class= "col-sm-3 col-form-label">Address*</label>
 		<div class="col-sm-6">
 			<input type = "text" class ="form-control" name="Address" value="@Model.employeesInfo.Address" >
 		</div>
